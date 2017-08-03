@@ -66,8 +66,3 @@ header {
 
 
 
-@media (min-width:992px) {
-    div {
-        width: 50%;
-    }
-}
