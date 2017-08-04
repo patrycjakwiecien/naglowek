@@ -8,17 +8,16 @@ body {
     font-family: 'Lato', sans-serif;
     color: white;
     font-weight: 300;
-    background-image: url(../img/man-1.jpg);
+
+
+
+
+    background-image: url(../img/man-2.jpg);
     background-size: cover;
     background-position: center top;
-    padding: 380px 25px;
+    padding: 200px 50px 50px 790px;
     background-repeat: no-repeat;
-    width: 100%;
-}
-
-/*header*/
-
-
+    width: 100%;}
 
 
 #header .header-content h1 {
@@ -30,25 +29,21 @@ body {
 }
 
 #header .header-content h2 {
-      color: white;
+    color: white;
     font-family: "Roboto", sans-serif;
     font-size: 30px;
     font-weight: 500;
     text-align: left;
-    
 }
+
+
 /*header styles stop*/
+
 
 /*section about styles start*/
 
-
-
-
-
-
-
-@media (min-width:1170px) {
-    div {
-        width: 100%;
+@media (min-width:992px) and (max-width:1070px) {
+    div h1 h2 {
+        width: 70%;
     }
 }
