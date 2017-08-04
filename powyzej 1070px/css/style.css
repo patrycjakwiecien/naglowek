@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: white;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    font-weight: 300;
+    background-image: url(../img/man-1.jpg);
+    background-size: cover;
+    background-position: center top;
+    padding: 380px 25px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+/*header*/
+
+
+
+
+#header .header-content h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 23px;
+    font-weight: 600;
+    text-align: left;
+    color: white;
+}
+
+#header .header-content h2 {
+      color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: left;
+    
+}
+/*header styles stop*/
+
+/*section about styles start*/
+
+
+
+
+
+
+
+@media (min-width:1170px) {
+    div {
+        width: 100%;
+    }
+}
