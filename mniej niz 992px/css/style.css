@@ -34,12 +34,10 @@ header {
     background-size: contain;
     background-position: 50%;
     background-repeat: no-repeat;
-    
-   
 }
 
 #header .header-content {
-     padding: 26vh;
+    padding: 26vh;
     position: relative;
     text-align: center;
     font-weight: 800;
@@ -48,26 +46,23 @@ header {
 #frontend-developer {
     margin: 30px;
     font-weight: 400;
-    font-size:15px;
+    font-size: 15px;
     position: relative;
     font-family: "Roboto", sans-serif;
     text-align: center;
-    
 }
 
 #frontend-developer>h2 {
     margin: 20px;
     font-weight: 800;
     font-size: 30px;
-     position: relative;
+    position: relative;
     font-family: "Roboto", sans-serif;
     text-align: center;
 }
 
-
-
 @media (min-width:992px) {
-    div {
+    div section {
         width: 50%;
     }
 }

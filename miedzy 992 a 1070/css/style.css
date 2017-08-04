@@ -8,17 +8,13 @@ body {
     font-family: 'Lato', sans-serif;
     color: white;
     font-weight: 300;
-
-
-
-
     background-image: url(../img/man-2.jpg);
     background-size: cover;
     background-position: center top;
     padding: 200px 50px 50px 790px;
     background-repeat: no-repeat;
-    width: 100%;}
-
+    width: 100%;
+}
 
 #header .header-content h1 {
     font-family: "Roboto", sans-serif;

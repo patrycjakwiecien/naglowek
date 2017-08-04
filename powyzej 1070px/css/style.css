@@ -16,10 +16,8 @@ body {
     width: 100%;
 }
 
+
 /*header*/
-
-
-
 
 #header .header-content h1 {
     font-family: "Roboto", sans-serif;
@@ -30,25 +28,15 @@ body {
 }
 
 #header .header-content h2 {
-      color: white;
+    color: white;
     font-family: "Roboto", sans-serif;
     font-size: 30px;
     font-weight: 500;
     text-align: left;
-    
 }
-/*header styles stop*/
-
-/*section about styles start*/
-
-
-
-
-
-
 
 @media (min-width:1170px) {
-    div {
+    body div {
         width: 100%;
     }
 }
